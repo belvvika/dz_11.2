@@ -1,2 +1,2 @@
-user_input = str(input())
-print(user_input.upper())
+user_input = str(input()) #ввод строки пользователем
+print(user_input.upper()) #возвращение строки закглавными буквами
